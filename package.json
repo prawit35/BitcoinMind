@@ -1,0 +1,10 @@
+{
+  "name": "bitcoinmind",
+  "version": "0.1.0",
+  "description": "A curated Bitcoin learning map for studying money, protocol, custody, verification, and sovereignty through primary texts, tools, timelines, and interactive frames.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
